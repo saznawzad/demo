@@ -1,0 +1,37 @@
+
+
+body {
+    background-color: rgb(151, 136, 173);
+  }
+  
+  h1 {
+    color: rgb(78, 182, 177);
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  img { display:block;
+    margin-left: auto;
+    margin-right:auto;
+  }
+
+  h4{
+    color: rgb(40, 95, 131);
+    text-align:center;
+  }
+  h2 {
+    color: rgb(77, 82, 15);
+    text-align: center;
+  }
+
+  .frame {
+    width: 290px;
+    height: 285px;
+    border: 3px solid rgb(148, 71, 129);
+    background: rgb(56, 63, 126);
+    margin: auto;
+    padding: 15px 10px;
+  }
